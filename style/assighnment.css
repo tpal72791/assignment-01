@@ -1,0 +1,271 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color:  rgb(226, 247, 247);
+    "wdth" 100;
+}
+
+/* nav styles */
+.nav-title{
+    font-weight: bold;
+    font-size: 32px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 19px 100px;
+    margin-top: 0px;
+}
+nav ul li{
+    list-style: none;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 56px;
+    color: rgba(0, 106, 80, 1);
+}
+.btn-primary{
+    font-size: 17px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    opacity: 100%;
+}
+.title-2{
+    font-weight: bold;
+    font-size: 35px;}
+
+/* banner style */
+
+.banner-title{
+    font-weight: bold;
+    font-size: 50px;
+    line-height:1;
+    padding-top: 100px;
+}
+.banner-profile-pic{
+    width: 474px;
+    padding: 50px 37px;
+}
+.banner{
+    display: flex;
+    justify-content:space-around;
+    margin: 73px 40px 38px 73px;
+}
+.banner {
+    background-color: rgba(198, 228, 214, 1);
+    margin: 19px 100px;
+    padding: 25px 37px;
+    border-radius: 10px;
+}
+
+
+.btn-first{
+    font-size: 18px;
+    padding: 11px 21px;
+    border-radius: 8px;
+    opacity: 100%;
+    border: none;
+    background-color: rgba(0, 106, 80, 1);
+    color: rgba(255, 255, 255, 1);
+    }
+/* skills section styles */
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skills{
+    margin: 80px 100px;
+}
+.skill{
+    padding:5px 4px;
+    border-radius: 10px;
+    box-shadow:rgba(14, 14, 14, 0.15);
+    background-color: white;
+    
+}
+.skill-title{
+    font-weight: bold;
+}
+/* rab bangladesh */
+
+.rab-style{
+    display: flex;
+}
+.rabb{
+    margin: 80px 100px;
+    }  
+
+.rab-1{
+    border-radius: 8px;
+    padding: 25px;
+    margin: 20px 15px ;
+    border: none;
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.rab-2{
+    border-radius: 8px;
+    padding: 25px;
+    margin:  20px 15px ;
+    border: none;
+    background-color: rgba(198, 228, 214, 1);
+}
+.rab-3{
+    border-radius: 8px;
+    padding: 25px;
+    margin: 20px 15px ;
+    border: none;
+    background-color: rgba(247, 235, 207, 1);
+}
+
+
+/* button-secendary */
+
+.button-secendary-01{
+    font-size: 12px;
+    padding: 11px 20px;
+    border-radius: 5px;
+    opacity: 100%;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(84, 144, 245, 1);
+}
+.button-secendary-02{
+    font-size: 12px;
+    padding: 11px 20px;
+    border-radius: 5px;
+    opacity: 100%;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(9, 161, 92, 1);
+}
+.button-secendary-03{
+    font-size: 12px;
+    padding: 11px 20px;
+    border-radius: 5px;
+    opacity: 100%;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 194, 57, 1);
+}
+.text-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    
+}
+.image-left {
+    position: absolute;
+    width: 50px;
+    height: auto;
+} 
+.text-border{
+    padding:30px 20px;
+    border-radius: 10px;
+    box-shadow:rgba(14, 14, 14, 0.15);
+    background-color: white;
+}
+h4,p {
+    margin-bottom: 5px;
+    margin-top: 5px; 
+}
+/* table-bd */
+
+.table-bd{
+    padding: 32px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.pgh{
+    padding: 40px 38px;
+    margin: 24px;
+    border-radius: 10px;
+    background-color: white;
+}
+.img-p{
+    border-radius: 15px;
+}
+.poster{
+    position:relative;
+    justify-content: space-evenly ;
+    margin-top: -40px;
+}
+.rab-style img {
+    margin-right: 20px;
+}
+.btn-third{
+    padding:13px 24px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    color: white;
+    background-color: rgba(0, 106, 80, 1);
+}
+.dt{
+    gap: 20px;
+}
+/* Donate Today */
+.Donate{
+    text-align: center;
+}
+.btn-big{
+    padding: 30px;
+    font-size: 35px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-top: 30px;
+    border-radius: 15px;
+    border-color: rgba(14, 14, 14, 0.15);
+    background-color: white;
+}
+
+.input-field{
+    padding: 20px 250px;
+    font-size: 20px;
+    margin: 32px;
+    opacity: 100%;
+    text-align: center;
+    border-color: rgba(14, 14, 14, 0.15);
+}
+.bg{
+    background-color: rgba(198, 228, 214, 1);
+}
+.st-l{
+    padding: 50px 120px;
+    border-radius: 20px;
+    background-color: rgba(198, 228, 214, 1);
+}
+.last{
+        padding: 0px 100px;
+        padding-bottom: 20px;
+}
+.last h3{
+    line-height:0.01 ;
+}
+.input-data{
+    padding: 15px 200px;
+    font-size: 15px;
+    margin: 0px;
+    opacity: 100%;
+    text-align: center;
+    border-color: rgba(14, 14, 14, 0.15);
+}
+.btn-fifth{
+    font-size: 18px;
+    padding: 12px 21px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    opacity: 100%;
+    border: none;
+    margin-left: -5px;
+    background-color: rgba(0, 106, 80, 1);
+    color: rgba(255, 255, 255, 1);
+    }
+.last-time{
+    color:rgba(14, 14, 14, 0.7);
+}
+.image-last{
+        padding: 2px;
+}
